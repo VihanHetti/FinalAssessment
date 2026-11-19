@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "This change was made in the ms vs portal!\n";
+    std::cout << "This change was made in the Git while the file was closed!\n
+        If this works we dont have anything to worry about!";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
